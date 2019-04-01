@@ -1,1 +1,1 @@
-# geopins-gql-demo
+geopins-gql-demo
